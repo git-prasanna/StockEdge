@@ -1,0 +1,8 @@
+{
+  "name": "StockSense - Modular Inventory Management System",
+  "description": "Centralized, real-time stock tracker replacing manual spreadsheets with multi-warehouse tracking, receipts, delivery orders, internal transfers, and an append-only stock ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
